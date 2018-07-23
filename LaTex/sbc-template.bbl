@@ -1,0 +1,44 @@
+\begin{thebibliography}{}
+
+\bibitem[Boulis et~al. 2012]{boulis:12}
+Boulis, A., Tselishchev, Y., Libman, L., Smith, D., and Hanlen, L. (2012).
+\newblock Impact of wireless channel temporal variation on mac design for body
+  area networks.
+\newblock {\em ACM Trans. Embed. Comput. Syst. 11, S2, Article 51 (August
+  2012)}.
+
+\bibitem[Denis et~al. 2014]{denis:14}
+Denis, B., Amiot, N., B.Uguen, Guizar, A., Goursaud, C., Ouni, A., and Chaudet,
+  C. (2014).
+\newblock Qualitative analysis of rssi behavior in cooperative wireless body
+  area networks for mobility detection and navigation applications.
+\newblock {\em 2014 21st IEEE International Conference on Electronics, Circuits
+  and Systems (ICECS)}.
+
+\bibitem[Dong and Smith 2013]{dong:13}
+Dong, J. and Smith, D. (2013).
+\newblock Coexistence and interference mitigation for wireless body area
+  networks: Improvements using on-body opportunistic relaying.
+\newblock {\em Submitted for possible publication on IEEE Transactions on
+  Wireless Communications}.
+
+\bibitem[Ge et~al. 2011]{ge:11}
+Ge, Y., Kwan, J.~W., Pathmasuntharam, J.~S., Di, Z., See, T. S.~P., Ni, W.,
+  Kim, C.~W., Chiam, T.~M., and Ma, M. (2011).
+\newblock Performance benchmarking for wireless body area networks at 2.4 ghz.
+\newblock {\em 2011 IEEE 22nd International Symposium on Personal, Indoor and
+  Mobile Radio Communications}.
+
+\bibitem[Liu et~al. 2015]{liu:15}
+Liu, B., Zhao, X., Zou, L., and Chen, C.~W. (2015).
+\newblock Inter-wban coexistence and interference mitigation.
+\newblock {\em ZTE Communications, June 2015, Vol 13 No.2}.
+
+\bibitem[See et~al. 2011]{terence:11}
+See, T.~S., Ge, Y., Chiam, T.~M., Kwan, J.~W., and Kim, C.~W. (2011).
+\newblock Experimental correlation of path loss with system performance in wban
+  for healthcare applications.
+\newblock {\em 2011 IEEE 13th International Conference on e-Health Networking,
+  Applications and Services}.
+
+\end{thebibliography}
